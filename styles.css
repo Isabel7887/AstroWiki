@@ -1,0 +1,135 @@
+html{
+    background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20200706/pngtree-blue-nebula-universe-space-planet-background-image_347719.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.Logo{
+    width: 23%;
+    border-radius: 15px;
+    float: right;
+    margin-right: 180px;
+}
+
+.index{
+    margin-right: 50%;
+    color:rgb(0, 0, 0);
+    background-color:rgb(255, 244, 244);
+    text-align: left;
+    align-items: center;
+    border-radius: 15px;
+    font-family: 'Raleway', sans-serif;
+    text-align: justify;
+    padding: 15px;
+    margin-left: 70px;
+    padding: 20px;
+}
+
+.title a{
+    font-size: 70px;
+    float: right;
+    color: white;
+    margin-right: 70px;
+    text-decoration: none;
+}
+
+
+
+nav{
+    background-color: rgba(255, 0, 0, 0);
+    overflow: hidden;
+}
+ul{
+    list-style-type: none;
+}
+.dropdown{
+    float: left;
+    overflow: auto;
+}
+.dropdown .drop{
+    color:white;
+    background-color: rgba(255, 244, 244, 0);
+    text-decoration: none;
+    font-size: 80px;
+    margin-left: 70px;
+}
+.btncontent{
+    display: none;
+    position: absolute;
+    background-color: rgba(255, 244, 244, 0.863);
+    width: 220px;
+}
+.btncontent a{
+    float: none;
+    color: black;
+    padding: 20px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+    font-family: 'Raleway', sans-serif;
+}
+.dropdown:hover .btncontent{
+    display: block;
+}
+nav a:hover{
+    color: rgb(0, 153, 255);
+}
+
+.container{
+    color:rgb(0, 0, 0);
+    background-color:rgb(255, 244, 244);
+    text-align: left;
+    margin: 70px;
+    padding: 20px;
+   align-items: center;
+   border-radius: 15px;
+   font-family: 'Raleway', sans-serif;
+   text-align: justify;
+   font-size: 20px;
+}
+
+.Planetas{
+    font-size: 40px;
+    text-align: center;
+}
+
+.imgPL{
+    width: 40%;
+    float: right;
+    margin-right: 5%;
+    margin-left: 50px;
+    border-radius: 15px;
+
+}
+
+.imgE1{
+    width: 40%;
+    margin-right: 5%;
+    margin-left: 50px;
+    border-radius: 15px;
+}
+
+.imgE2{
+    width: 40%;
+    margin-right: 5%;
+    margin-left: 50%;
+    border-radius: 15px;
+}
+
+footer{
+    color: white;
+    margin: 70px;
+    padding: 15px;
+   border-width: 90cm;
+   border-top: solid;
+   font-size: smaller;
+}
+h3{
+    font-family: 'Raleway', sans-serif;
+    text-align: left;
+}
+.Footer{
+    float: right;
+}
